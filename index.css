@@ -10,7 +10,7 @@ body {
 
 .container {
   display: grid;
-  width: 77%;
+  width: 85%;
   margin: 5.5rem auto 5.5rem auto;
   border-radius: 2rem;
   background-color: #f3f4f6;

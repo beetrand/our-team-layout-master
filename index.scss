@@ -167,10 +167,10 @@ body {
         width: 95%;
         margin: 1rem auto 1rem auto;
         grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: 19rem repeat(6, 1fr);
+        grid-template-rows: 18.5rem repeat(6, 1fr);
 
         & > :first-child {
-            height: 19rem;
+            height: 18.5rem;
         }
     }
 }

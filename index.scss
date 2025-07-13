@@ -105,7 +105,7 @@ body {
         a {
             vertical-align: bottom;
             text-decoration: none;
-            color: inherit;
+            color: #394150;
             cursor: pointer;
         }
     }
@@ -165,7 +165,7 @@ body {
 @media (max-width: 640px) {
     .container {
         width: 95%;
-        margin: 0.5rem;
+        margin: 1rem auto 1rem auto;
         grid-template-columns: repeat(1, 1fr);
         grid-template-rows: 20rem repeat(6, 1fr);
 
